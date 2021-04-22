@@ -1,4 +1,4 @@
-// Sample code for my artikle here:
+// Sample code for my article here:
 // https://www.hackster.io/antal-attila/rak811-wisnode-lora-as-shield-637f41
 
 // more about AT commands
